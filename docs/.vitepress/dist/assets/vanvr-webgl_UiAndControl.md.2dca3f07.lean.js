@@ -1,0 +1,1 @@
+import{o as n,c as t,d as e}from"./app.06ca5107.js";const o='{"title":"","description":"","frontmatter":{},"relativePath":"vanvr-webgl/UiAndControl.md","lastUpdated":1630365662009}',s={},r=[e('',33)];s.render=function(e,o,s,a,i,c){return n(),t("div",null,r)};export{o as __pageData,s as default};

@@ -1,1 +1,0 @@
-import{o as e,c as t,a as s}from"./app.8f3ad78e.js";const o='{"title":"","description":"","frontmatter":{},"relativePath":"vanvr-facilitator/Apis.md","lastUpdated":1630362152484}',r={},p=[s('',6)];r.render=function(s,o,r,a,i,n){return e(),t("div",null,p)};export{o as __pageData,r as default};

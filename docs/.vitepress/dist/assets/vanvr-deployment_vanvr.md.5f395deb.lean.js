@@ -1,1 +1,0 @@
-import{o as e,c as t,a as r}from"./app.8f3ad78e.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"vanvr-deployment/vanvr.md","lastUpdated":1630361512615}',n={},o=[r('',2)];n.render=function(r,a,n,i,l,s){return e(),t("div",null,o)};export{a as __pageData,n as default};

@@ -1,1 +1,0 @@
-import{o as t,c as n,a as e}from"./app.8f3ad78e.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"vanvr-webgl/Data.md","lastUpdated":1630365094852}',o={},s=[e('',16)];o.render=function(e,a,o,r,i,c){return t(),n("div",null,s)};export{a as __pageData,o as default};
