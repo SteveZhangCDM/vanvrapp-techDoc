@@ -1,1 +1,0 @@
-import{o as t,c as o,d as e}from"./app.06ca5107.js";const i='{"title":"","description":"","frontmatter":{},"relativePath":"vanvr-gyro/NextStep.md","lastUpdated":1630372917775}',n={},s=[e('',5)];n.render=function(e,i,n,r,a,c){return t(),o("div",null,s)};export{i as __pageData,n as default};

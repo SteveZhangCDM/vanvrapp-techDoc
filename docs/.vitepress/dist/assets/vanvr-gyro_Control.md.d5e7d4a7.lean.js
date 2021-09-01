@@ -1,0 +1,1 @@
+import{o,c as t,a as r}from"./app.8f3ad78e.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"vanvr-gyro/Control.md","lastUpdated":1630363829672}',e={},n=[r('',5)];e.render=function(r,a,e,s,i,l){return o(),t("div",null,n)};export{a as __pageData,e as default};

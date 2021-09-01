@@ -1,1 +1,0 @@
-import{o,c as n,d as t}from"./app.06ca5107.js";const e='{"title":"","description":"","frontmatter":{},"relativePath":"vanvr-facilitator/Components.md","lastUpdated":1630362198791}',r={},s=[t('',28)];r.render=function(t,e,r,a,p,g){return o(),n("div",null,s)};export{e as __pageData,r as default};
