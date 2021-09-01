@@ -4,7 +4,7 @@
 
 - [Data](/vanvr-webgl/Data.md)
 - [UiAndControl](/vanvr-webgl/UiAndControl.md)
-- [Camera](/vanvr-webgl/Camera.ms)
+- [Camera](/vanvr-webgl/Camera.md)
 - [Setting](/vanvr-webgl/Setting.md)
 - [View](/vanvr-webgl/View.md)
 
