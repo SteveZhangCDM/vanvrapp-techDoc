@@ -15,7 +15,7 @@ function getMainSidebar() {
             text: 'Vanvrapp Webgl',
             children: [
                 { text: 'Data', link: '/vanvr-webgl/Data' },
-                { text: 'Ui and Control', link: '/vanvr-webgl/UiAndControl' },
+                { text: 'UI and Control', link: '/vanvr-webgl/UiAndControl' },
                 { text: 'Camera', link: '/vanvr-webgl/Camera' },
                 { text: 'Setting', link: '/vanvr-webgl/Setting' },
                 { text: 'View', link: '/vanvr-webgl/View' },
